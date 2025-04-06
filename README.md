@@ -1,42 +1,75 @@
 # Estudos-Java-IDE-Eclipse
 
-Repositório destinado ao estudo da linguagem **Java** utilizando a IDE **Eclipse**, com foco na criação de projetos simples que envolvem lógica de programação, estruturas de controle, orientação a objetos e manipulação de pacotes.
+## 💡 Sobre o Projeto
 
-##  Objetivo
+O repositório **Estudos-Java-IDE-Eclipse** foi criado com o objetivo de reunir exercícios e exemplos práticos desenvolvidos durante o processo de aprendizagem da linguagem **Java** utilizando a IDE **Eclipse**. 
 
-Consolidar conceitos fundamentais da linguagem Java por meio de pequenos projetos organizados por temas, testando a prática de desenvolvimento na IDE Eclipse e explorando diferentes abordagens e padrões de codificação.
+A proposta é aplicar conceitos fundamentais da programação orientada a objetos, lógica, estruturas de decisão e repetição, modularização e organização de código, seguindo boas práticas e padrões recomendados pela linguagem.
 
-## Estrutura do Projeto
+O projeto está organizado em módulos temáticos e serve como material de consulta e evolução contínua para desenvolvedores iniciantes ou em transição de carreira.
 
-Estudos-Java-IDE-Eclipse/ ├── src/ │ ├── pacotes/ │ ├── estruturas/ │ ├── poo/ │ └── ... └── README.md
+---
 
-## Tecnologias Utilizadas
-Java SE 11+
+## 🧱 Destaques Técnicos
 
-Eclipse IDE for Java Developers
+- Uso da **IDE Eclipse** como ambiente principal de desenvolvimento
+- Organização do código por pacotes temáticos (ex: `estrutura`, `condicional`, `orientacao_objetos`)
+- Aplicação prática de:
+  - Variáveis, operadores e expressões
+  - Condicionais (`if`, `switch`)
+  - Laços (`for`, `while`, `do-while`)
+  - Criação e instância de classes e métodos
+  - Encapsulamento e reutilização de código
+- Projeto didático, ideal para quem está reforçando os fundamentos do Java
 
-JDK (Java Development Kit)
+---
 
-Padrões de codificação e boas práticas
+## 📁 Estrutura do Projeto
 
-## Tópicos abordados
-Sintaxe e estrutura básica do Java
+```
+Estudos-Java-IDE-Eclipse/
+├── src/
+│   ├── estrutura/
+│   ├── condicional/
+│   ├── repeticao/
+│   ├── orientacao_objetos/
+│   └── outros/
+└── README.md
+```
 
-Tipos primitivos e operadores
+---
 
-Estruturas de controle (if, while, for)
+## 💻 Como Executar no Eclipse
 
-Métodos e modularização
+1. Clone o repositório:
+```bash
+git clone https://github.com/Luizguni/Estudos-Java-IDE-Eclipse.git
+```
 
-POO (Classes, Objetos, Encapsulamento, Herança)
+2. Importe o projeto no Eclipse:
+- Vá em `File > Import`
+- Selecione `Existing Projects into Workspace`
+- Aponte para a pasta `Estudos-Java-IDE-Eclipse`
 
-Organização de pacotes
+3. Compile e execute as classes `Main.java` ou outros arquivos de teste diretamente pela IDE.
 
-Boas práticas na IDE Eclipse
+---
 
-## Licença
-Este projeto está licenciado sob a MIT License.
+## 🧪 Tecnologias Utilizadas
 
-👨‍💻 Autor
-Luiz Guni
-GitHub: @Luizguni
+- **Java SE 11+**
+- **Eclipse IDE for Java Developers**
+- **JDK (Java Development Kit)**
+
+---
+
+## 🔒 Licença
+
+Este projeto está licenciado sob a [MIT License](LICENSE).
+
+---
+
+## 👨‍💻 Autor
+
+**Luiz Guni**  
+GitHub: [@Luizguni](https://github.com/Luizguni)
